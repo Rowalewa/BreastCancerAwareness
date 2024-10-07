@@ -1,5 +1,3 @@
-// script.js
-
 // Display an alert reminding users to perform a self-exam after a set time
 setTimeout(() => {
     alert("Reminder: Don't forget to perform your breast self-exam this month!");
